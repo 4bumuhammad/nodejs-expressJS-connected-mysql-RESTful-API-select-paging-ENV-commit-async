@@ -37,6 +37,8 @@ periksa file json dan buat file js secara manual serta isinya.
 
 - app.js
 
+- .env
+
 
 
 jalankan (command) :
